@@ -83,3 +83,12 @@ Figure 3: XKCD Comic and Joke API visible
 
 ![WAPH](images/waph.png)  
 Figure 4: Separate page detailing course overview
+
+---
+
+## Conclusion
+This project provided hands-on experience in developing and deploying a professional portfolio website using modern front-end web technologies. Through this assignment, I enhanced my skills in HTML, CSS, JavaScript, and API integration, while also applying best practices in responsive design and user interaction.
+
+By meeting both technical and non-technical requirements, I created a fully functional and visually appealing personal website tailored to potential employers. Integrating dynamic content such as real-time clocks, public APIs (JokeAPI, XKCD, Open-Meteo), and visit tracking deepened my understanding of client-side scripting and third-party data handling.
+
+Overall, this project helped me gain valuable practical experience in full-stack web development and web security awareness, which will benefit future coursework and professional opportunities.
