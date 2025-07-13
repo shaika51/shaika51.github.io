@@ -18,7 +18,7 @@ This project involved designing and deploying a professional profile website usi
 
 Through this project, I strengthened my knowledge of JavaScript, HTML/CSS, API integration, and deployment using GitHub. I also practiced secure coding techniques covered in the course.
 
-- [Live Website on GitHub.io](https://shaika51.github.io/  
+- [Live Website on GitHub.io](https://shaika51.github.io/)
 - [GitHub Repository Link](https://github.com/shaika51/shaika51.github.io)
 
 ---
